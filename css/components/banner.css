@@ -1,0 +1,22 @@
+.banner{
+  background-image: linear-gradient(-225deg, rgba(100, 100, 100, 0.2) 15%, rgba(0, 0, 0, 0.2) 50%), url(../../images/whiskey.jpg);
+  padding: 150px  0px;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.banner h1 {
+font-size: 100px;
+color: white;
+margin-bottom: 10px;
+text-align: left;
+}
+.banner h2 {
+font-size: 50px;
+color: white;
+opacity: 0.8;
+margin-bottom: 10px;
+margin-top: 0px;
+text-align: left;
+}

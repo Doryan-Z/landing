@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Lato:wght@400;700&display=swap")
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+    font-family: "Crimson Pro", serif;
+    font-size: 18px;
+}
+
+h1, h2 , h3 {
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+}
+a {
+ color:rgb(255, 253, 0 ) ;
+ transition: color 0.3s;}
+
+a:hover {
+ color: red;
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    color:rgb(221, 152, 92);
+    text-align: left;
+    font-weight: bolder;
+}
+
+h2 {
+ color:rgb(221, 152, 92);
+ font-family: "Lato", sans-serif;
+ text-align: center;
+ font-weight: bolder;
+}
+
+h3 {
+    color:rgb(221, 152, 92);
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+}
+
